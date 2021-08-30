@@ -11,7 +11,5 @@ namespace CodeFirstProj.Models
         [Key]
         public int Lid { get; set; }
         public string Lname { get; set; }
-
-
     }
 }
